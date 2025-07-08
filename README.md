@@ -2,6 +2,12 @@
 
 ## Section 1
 
+### Project 1
+
 - Understanding the LLM
 - Development with OpenAI frontier models
 - Develop a project that scrap the data from the provided URL and summarize the content
+
+### Project 2
+
+- Project with Ollama Local Model

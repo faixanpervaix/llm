@@ -35,6 +35,7 @@ class AiModel:
                 pass
 
     def _prepare_ollama(self) -> None:
+        pass
         
     def __repr__(self):
         """

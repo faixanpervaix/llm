@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm_learning"
+version = "0.1.0"
+description = "LLM Learning Project - Company Brochure Generator"
+authors = [
+    {name = "Faizan Pervaiz", email = "faixanpervaix@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+[tool.setuptools]
+py-modules = ["ai_model", "schemas"]
+
+[tool.setuptools.package-data]
+"*" = ["*.txt", "*.md", "*.yml", "*.yaml"]

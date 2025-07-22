@@ -2,3 +2,4 @@
 .vscode
 /**/__pycache__
 /llm_learning.egg-info
+/**/.DS_Store
